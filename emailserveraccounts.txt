@@ -1,0 +1,19 @@
+Secure SSL/TLS Settings (Recommended)
+Username:	ebanking@myprojectcoding.xyz
+Password:	dmQ6=UrTrS+b
+Incoming Server:	corporate.vip5.noc401.com
+IMAP Port: 993 POP3 Port: 995
+Outgoing Server:	corporate.vip5.noc401.com
+SMTP Port: 465
+IMAP, POP3, and SMTP require authentication.
+
+
+Non-SSL Settings (NOT Recommended).
+Username:	ebanking@myprojectcoding.xyz
+Password:	dmQ6=UrTrS+b
+Incoming Server:	mail.myprojectcoding.xyz
+IMAP Port: 143 POP3 Port: 110
+Outgoing Server:	mail.myprojectcoding.xyz
+SMTP Port: 26
+IMAP, POP3, and SMTP require authentication.
+
